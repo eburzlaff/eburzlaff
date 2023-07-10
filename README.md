@@ -15,8 +15,8 @@
 </p> <br/><br/>
 
 <div>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eburzlaff&show_icons=true&locale=en&layout=compact" alt="eburzlaff" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eburzlaff&show_icons=true&locale=en" alt="eburzlaff" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eburzlaff&show_icons=true&locale=en&layout=compact" alt="eburzlaff" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eburzlaff&show_icons=true&locale=en" alt="eburzlaff" height="180em"/>
 </div>
 <br/>
 
