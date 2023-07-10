@@ -38,6 +38,7 @@
   
 <h3 align="left">Back-End Development</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<span>Java Servlets, Hibernate, Apache Tomcat</span>
 <br/><br/>
 
 <h3 align="left">Mobile App Development</h3>
@@ -50,6 +51,10 @@
 
 <h3 align="left">Unit Testing Frameworks</h3>
 <span>JUnit</span>
+<br/><br/>
+
+<h3 align="left">Logging Frameworks</h3>
+<span>Log4J</span>
 <br/><br/>
 
 <h3 align="left">Software</h3>
