@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduardo Burzlaff</h1>
 <h3 align="center">A passionate software developer looking for my first opportunity in the IT field</h3>
 
-- 🔭 I’m currently working on [Fair Exchange](https://github.com/eburzlaff/fair-exchange-app)
+- 🔭 I’m currently working on [My portfolio](https://github.com/eburzlaff/portfolio1)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eburzlaff?tab=repositories](https://github.com/eburzlaff?tab=repositories)
 
