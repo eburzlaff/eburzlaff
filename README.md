@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Eduardo Burzlaff</h1>
 <h3 align="center">A passionate software developer looking for my first opportunity in the IT field</h3>
 
-- ➡️ Visit My Portfolio <a href="" target="_blank">Live Here!</a>
+- ➡️ Visit My Portfolio <a href="" target="blank">Live Here!</a>
 
-- 📄 Resume Link <a href="https://1drv.ms/b/s!AqeW_YjP112JgeAMTmksPJ3cFKqgQw?e=ulWHrd" target="_blank">Resume</a>
+- 📄 Resume Link <a href="https://1drv.ms/b/s!AqeW_YjP112JgeAMTmksPJ3cFKqgQw?e=ulWHrd" target="blank">Resume</a>
 
-- 🔭 I’m currently working on <a href="https://github.com/eburzlaff/portfolio1" target="_blank">My portfolio</a>
+- 🔭 I’m currently working on <a href="https://github.com/eburzlaff/portfolio1" target="blank">My portfolio</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/eburzlaff?tab=repositories" target="_blank">Repos</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/eburzlaff?tab=repositories" target="blank">Repos</a>
 
 - 📫 How to reach me
 
-    <a href="mailto:du.di.99@hotmail.com" target="_blank">
+    <a href="mailto:du.di.99@hotmail.com" target="blank">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 
-    <a href="https://github.com/eburzlaff" target="_blank">
+    <a href="https://github.com/eburzlaff" target="blank">
       <img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 
-    <a href="https://www.linkedin.com/in/eblrb/" target="_blank">
+    <a href="https://www.linkedin.com/in/eblrb/" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 
