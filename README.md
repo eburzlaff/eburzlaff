@@ -3,7 +3,7 @@
 
 - ➡️ Visit My Portfolio <a href="https://eburzlaff.netlify.app/" target="_blank">Live Here!</a>
 
-- 📄 Resume Link <a href="https://1drv.ms/b/s!AqeW_YjP112JgeAMTmksPJ3cFKqgQw?e=ulWHrd" target="_blank">Resume</a>
+- 📄 Resume Link <a href="https://1drv.ms/b/s!AqeW_YjP112JgeMtIuJYUgmV396a0A?e=z0pksS" target="_blank">Resume</a>
 
 - 🔭 I’m currently working on <a href="https://github.com/eburzlaff/portfolio1" target="_blank">My portfolio</a>
 
