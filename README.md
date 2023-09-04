@@ -5,7 +5,7 @@
 
 - 📄 Resume Link <a href="https://1drv.ms/b/s!AqeW_YjP112JgeMtIuJYUgmV396a0A?e=z0pksS" target="_blank">Resume</a>
 
-- 🔭 I’m currently working on <a href="https://github.com/eburzlaff/portfolio1" target="_blank">My portfolio</a>
+- 🔭 I’m currently working on <a href="https://github.com/eburzlaff/cine-view-2.0-movie-app" target="_blank">CineView 2.0</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/eburzlaff?tab=repositories" target="_blank">Repos</a>
 
