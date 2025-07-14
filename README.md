@@ -5,7 +5,7 @@
 
 - 📄 Resume Link <a href="https://1drv.ms/b/c/895dd7cf88fd96a7/EZ15PnqXXXBEgo7XZGLhBl8BkVHUPOwjfD2Pq78JZrKwRg" target="_blank">Resume</a>
 
-- 📄 Baixar Currículo (PT-BR) <a href="https://1drv.ms/b/c/895dd7cf88fd96a7/EWFp31o4T09KuUeYEuG7BGkBuYFPFi5I-fv4FY3KMtl69w?e=7t8Pjo" target="_blank">Currículo</a>
+- 📄 Link do Currículo (PT-BR) <a href="https://1drv.ms/b/c/895dd7cf88fd96a7/EWFp31o4T09KuUeYEuG7BGkBuYFPFi5I-fv4FY3KMtl69w?e=7t8Pjo" target="_blank">Currículo</a>
 
 
 - 🔭 I’m currently working on <a href="https://github.com/eburzlaff/cine-view-2.0-movie-app" target="_blank">CineView 2.0</a>
